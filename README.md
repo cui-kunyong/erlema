@@ -1,24 +1,71 @@
-# erlema
+# 1、标题
 
-## Project setup
-```
-npm install
-```
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# 2、文字
 
-### Lints and fixes files
-```
-npm run lint
-```
+**这是加粗的文字**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*这是倾斜的文字*
+
+***这是斜体加粗的文字***
+
+~~这是加删除线的文字~~
+
+
+# 3、引用
+
+>这是引用的内容
+>>这是引用的内容
+>>>>>>>>>>这是引用的内容
+
+# 4、分割线
+
+---
+----
+***
+****
+
+# 5、图片
+
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+
+# 6、超链接
+
+[百度](http://baidu.com)
+
+# 7、列表
+
+## 无序列表
+* 列表
++ 列表
+- 列表
+
+## 有序列表
+1. 有序列表
+2. 有序列表
+
+## 嵌套列表
+* 一级列表
+   1. 二级列表
+   2. 二级列表
+      + 三级列表
+      - 上一级和下一级之间敲三个空格
+
+# 8、表格
+姓名|技能|排行
+--|:--:|--:
+c|物理攻击|1
+u|法术攻击|2
+
+# 9、代码
+`单行代码`
+```
+代码块
+```
